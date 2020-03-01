@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E8E54932-2B47-434B-911A-B4C41DA252B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LearningCS3/Program.cs">
+    <Files>
+      <File FileName="LearningCS3/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LearningCS3" expanded="True">
+            <Node name="LearningCS3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LearningCS3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
