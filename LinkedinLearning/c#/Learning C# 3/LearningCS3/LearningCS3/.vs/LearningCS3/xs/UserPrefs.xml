@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{43A12B95-C6A1-4FC7-B543-5D305819415E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.cs">
+    <Files>
+      <File FileName="Hello World!.cs" Line="8" Column="47" />
+      <File FileName="App.cs" Line="47" Column="32" />
+      <File FileName="../../../../../../../MSSA/Coding/Project/Peer Programming/Space-Trading/Space Trading/Main Menu.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="LearningCS3" expanded="True">
+            <Node name="LearningCS3" expanded="True">
+              <Node name="App.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LearningCS3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
