@@ -1,0 +1,11 @@
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/bin/Debug/netcoreapp3.1/LearningCS3
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/bin/Debug/netcoreapp3.1/LearningCS3.deps.json
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/bin/Debug/netcoreapp3.1/LearningCS3.runtimeconfig.json
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/bin/Debug/netcoreapp3.1/LearningCS3.runtimeconfig.dev.json
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/bin/Debug/netcoreapp3.1/LearningCS3.dll
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/bin/Debug/netcoreapp3.1/LearningCS3.pdb
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/obj/Debug/netcoreapp3.1/LearningCS3.csprojAssemblyReference.cache
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/obj/Debug/netcoreapp3.1/LearningCS3.AssemblyInfoInputs.cache
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/obj/Debug/netcoreapp3.1/LearningCS3.AssemblyInfo.cs
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/obj/Debug/netcoreapp3.1/LearningCS3.dll
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/LinkedinLearning/c#/Learning C# 3/LearningCS3/LearningCS3/obj/Debug/netcoreapp3.1/LearningCS3.pdb

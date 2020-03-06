@@ -21,6 +21,7 @@ namespace LearningCS3
 
 
 
+
                 var key = userSelect();
                 quit = UserChoice(key);
             } while (!quit);
@@ -28,7 +29,7 @@ namespace LearningCS3
 
         private ConsoleKey userSelect()
         {
-            ConsoleKey;
+            ConsoleKey key;
 
             key = input();
 
@@ -44,7 +45,8 @@ namespace LearningCS3
         {
             switch (key)
             {
-                case ConsoleKey
+                case ConsoleKey.UpArrow:
+
             }
         }
     }
