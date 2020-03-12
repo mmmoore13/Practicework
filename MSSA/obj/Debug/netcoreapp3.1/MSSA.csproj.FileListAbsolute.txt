@@ -1,0 +1,10 @@
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/MSSA/bin/Debug/netcoreapp3.1/MSSA.deps.json
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/MSSA/bin/Debug/netcoreapp3.1/MSSA.runtimeconfig.json
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/MSSA/bin/Debug/netcoreapp3.1/MSSA.runtimeconfig.dev.json
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/MSSA/bin/Debug/netcoreapp3.1/MSSA.dll
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/MSSA/bin/Debug/netcoreapp3.1/MSSA.pdb
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/MSSA/obj/Debug/netcoreapp3.1/MSSA.csprojAssemblyReference.cache
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/MSSA/obj/Debug/netcoreapp3.1/MSSA.AssemblyInfoInputs.cache
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/MSSA/obj/Debug/netcoreapp3.1/MSSA.AssemblyInfo.cs
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/MSSA/obj/Debug/netcoreapp3.1/MSSA.dll
+/Users/matthewmoore/Documents/Computer Programming/Outside Practice/Practicework/MSSA/obj/Debug/netcoreapp3.1/MSSA.pdb
