@@ -1,0 +1,6 @@
+[submodule "MSSA/MvcMovie"]
+	path = MSSA/MvcMovie
+	url = https://github.com/mmmoore13/Practicework.git
+[submodule "MSSA/SampleDatabaseWalkthrough"]
+	path = MSSA/SampleDatabaseWalkthrough
+	url = https://github.com/mmmoore13/Practicework.git
