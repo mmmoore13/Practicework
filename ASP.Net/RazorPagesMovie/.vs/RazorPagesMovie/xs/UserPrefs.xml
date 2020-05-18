@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{5033C6E2-26C2-43BF-8CFF-8F0992FE50EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Pages/Movies/Index.cshtml.cs">
+    <Files>
+      <File FileName="RazorPagesMovie/Models/Movies.cs" Line="20" Column="2" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Edit.cshtml" Line="1" Column="17" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Details.cshtml" Line="1" Column="17" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Delete.cshtml" Line="1" Column="17" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Movies" expanded="True">
+                  <Node name="Index.cshtml" expanded="True">
+                    <Node name="Index.cshtml.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
